@@ -1,5 +1,9 @@
 # Implicit Animation Example
 
+Screen Capture
+--------------
+![gif](https://github.com/JohnnyWu0425/Flutter-Implicit-Animation-Example/blob/master/screen_capture.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
