@@ -1,8 +1,8 @@
 # Implicit Animation Example
 
-Screen Capture
---------------
-![gif](https://github.com/JohnnyWu0425/Flutter-Implicit-Animation-Example/blob/master/screen_capture.gif)
+Screen Capture |
+-------------- |
+![gif](https://github.com/JohnnyWu0425/Flutter-Implicit-Animation-Example/blob/master/screen_capture.gif) |
 
 ## Getting Started
 
