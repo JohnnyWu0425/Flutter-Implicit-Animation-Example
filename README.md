@@ -1,6 +1,4 @@
-# implicitanimation
-
-A new Flutter application.
+# Implicit Animation Example
 
 ## Getting Started
 
